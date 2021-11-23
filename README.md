@@ -6,4 +6,4 @@ The folders contain some code from projects I worked on as an intern at the Oakl
 
 `trees!`: creating a map for all trees to be maintained or planted in the neighborhood.
 
-Below the folders are Tableau packaged workbooks that contain the maps for these projects. You can download them and open them in Tableau to view. 
+Below the folders are Tableau packaged workbooks that contain the maps for these projects. You can download and open them in Tableau to view. 
